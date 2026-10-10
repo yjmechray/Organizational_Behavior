@@ -24,6 +24,18 @@
 "explanation": "Past managers relied on vertical (top-down) communication. Future managers utilize multidirectional communication, allowing information to flow freely across all organizational levels and horizontal networks."
 },
 {
+"tag": "[W1 L1 ETC]",
+"question": "An assembly line worker notices a minor inefficiency and proactively proposes a workflow tweak that reduces material waste by 15%. In the context of a 21st-Century Horizontal Network Organization, this employee is acting as a:",
+"options": [
+"Top-down Manager",
+"Value Creator",
+"Sense-Making Device",
+"Social Insider"
+],
+"correctAnswerIndex": 1,
+"explanation": "A 'Value Creator' is an empowered employee who proactively takes initiative to generate tangible worth for the company, which is a core feature of modern horizontal network organizations."
+},
+{
 "tag": "[W1 L2]",
 "question": "According to research discussed in class (like Diana Karanza's findings), what is among the top reasons that nine out of ten startups fail?",
 "options": [
@@ -66,6 +78,18 @@
 ],
 "correctAnswerIndex": 0,
 "explanation": "TRUE. CSR is exactly this: an enterprise's full accountability for its environmental, social, and economic impact."
+},
+{
+"tag": "[W1 L2 ETC]",
+"question": "Which form of capital represents the network of interpersonal relationships, trust, and shared vision, the lack of which is cited as the reason 90% of startups fail?",
+"options": [
+"Human Capital",
+"Financial Capital",
+"Intellectual Capital",
+"Social Capital"
+],
+"correctAnswerIndex": 3,
+"explanation": "Social Capital is 'who you know'—the trust and network of relationships. Lack of social capital is a primary reason for high startup failure rates."
 },
 {
 "tag": "[W2 L1]",
@@ -112,6 +136,18 @@
 "explanation": "TRUE. According to Edgar Schein's model, artifacts are the top, visible level of culture."
 },
 {
+"tag": "[W2 L1 ETC]",
+"question": "When analyzing Williams-Sonoma's organizational culture, their explicit formal commitment to 100% eco-friendly paper sourcing and employee well-being is an example of which level of Edgar Schein’s model?",
+"options": [
+"Artifacts",
+"Underlying Assumptions",
+"Espoused Values",
+"Sense-Making Devices"
+],
+"correctAnswerIndex": 2,
+"explanation": "Espoused Values are explicitly stated, aspirational principles, missions, and goals published by leadership, such as Williams-Sonoma's environmental commitments."
+},
+{
 "tag": "[W2 L2]",
 "question": "According to the principles of culture change (Chris Williams' insight), what is the most critical requirement for a shift in corporate culture to actually succeed?",
 "options": [
@@ -154,6 +190,18 @@
 ],
 "correctAnswerIndex": 1,
 "explanation": "FALSE. While important, Chris Williams' insight emphasizes that merely stating values or issuing memos is not enough. Leaders must actively model the desired behavior themselves."
+},
+{
+"tag": "[W2 L2 ETC]",
+"question": "A new hire is currently undergoing orientation, figuring out how to navigate team dynamics, and managing initial reality checks about the job. Which stage of the organizational socialization process are they in?",
+"options": [
+"Anticipatory Socialization",
+"Encounter Stage",
+"Change and Acquisition",
+"Internalization Stage"
+],
+"correctAnswerIndex": 1,
+"explanation": "The Encounter Stage is the second phase of socialization, occurring upon initial job entry where newcomers undergo onboarding, manage role conflicts, and reduce task uncertainty."
 },
 {
 "tag": "[W3 L1]",
@@ -276,6 +324,18 @@
 "explanation": "FALSE. Empathy is recognizing emotions. Social Perception is the broader cognitive process of interpreting environmental stimuli and actions."
 },
 {
+"tag": "[W4 L1 ETC]",
+"question": "In the Social Perception model, what term describes the mental structures of stored knowledge that the brain uses to organize and interpret information quickly?",
+"options": [
+"Artifacts",
+"Espoused Values",
+"Schemata",
+"Internal Attributions"
+],
+"correctAnswerIndex": 2,
+"explanation": "Schemata (or schemas) are mental structures used during the 'Encoding and Simplification' stage to quickly categorize and interpret environmental stimuli."
+},
+{
 "tag": "[W4 L2]",
 "question": "Under Kelley’s Covariation Model of Attribution, if an employee performs poorly on a task, but all other colleagues performing the exact same task also perform poorly, what is the consensus level and attribution?",
 "options": [
@@ -330,6 +390,18 @@
 ],
 "correctAnswerIndex": 1,
 "explanation": "FALSE. Age, gender, and race are considered 'Internal Dimensions' of diversity, not personality."
+},
+{
+"tag": "[W4 L2 ETC]",
+"question": "A manager observes an employee struggling with a new machine software. The manager notes that EVERY other worker is also struggling with this exact same software. According to Kelley's Covariation Model, what is the level of consensus, and what attribution should be made?",
+"options": [
+"High Consensus; Internal Attribution",
+"High Consensus; External Attribution",
+"Low Consensus; Internal Attribution",
+"Low Consensus; External Attribution"
+],
+"correctAnswerIndex": 1,
+"explanation": "Because everyone is struggling (High Consensus), the manager should make an External Attribution, blaming the faulty software/situation rather than the individual employee."
 },
 {
 "tag": "[W5 L1]",
