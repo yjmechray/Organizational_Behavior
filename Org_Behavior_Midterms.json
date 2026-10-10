@@ -1,0 +1,502 @@
+[
+{
+"tag": "[W1 L1]",
+"question": "What are the two foundational qualities required for effective 21st-century leadership, and how are they distinguished?",
+"options": [
+"Authority and Control",
+"Integrity and Credibility",
+"Seniority and Hierarchy",
+"Technical Skill and Power"
+],
+"correctAnswerIndex": 1,
+"explanation": "Integrity means doing what is right, being honest, and operating without hiding information. Credibility means earning trust through proven competence, actions, and skills that people can rely on."
+},
+{
+"tag": "[W1 L1]",
+"question": "Which of the following describes the shift in communication patterns from past managers to future managers?",
+"options": [
+"From horizontal to vertical",
+"From vertical top-down command to multidirectional cross-communication",
+"From digital platforms to paper-based memos",
+"From open debate to strict command-and-control"
+],
+"correctAnswerIndex": 1,
+"explanation": "Past managers relied on vertical (top-down) communication. Future managers utilize multidirectional communication, allowing information to flow freely across all organizational levels and horizontal networks."
+},
+{
+"tag": "[W1 L2]",
+"question": "According to research discussed in class (like Diana Karanza's findings), what is among the top reasons that nine out of ten startups fail?",
+"options": [
+"Lack of financial capital",
+"Poor technical talent",
+"Lack of social capital",
+"Weak product-market fit"
+],
+"correctAnswerIndex": 2,
+"explanation": "While financial capital and technical talent are necessary, research highlights that a lack of social capital (interpersonal connections, networks, mutual trust, and support groups) causes 9 out of 10 startups to fail."
+},
+{
+"tag": "[W1 L2]",
+"question": "In the model of workplace ethical behavior, which factor includes the organization's corporate strategy, ethical codes, and perceived pressure for results?",
+"options": [
+"External Organizational Influences",
+"Internal Organizational Influences",
+"Neutralizing Factors",
+"Individual Demographics"
+],
+"correctAnswerIndex": 1,
+"explanation": "Internal Organizational Influences consist of ethical codes, organizational culture, firm size, structure, corporate strategy, and perceived pressure for results."
+},
+{
+"tag": "[W1 L2]",
+"question": "Lack of financial capital is among the top reasons that nine out of ten startups fail?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. According to Diana Karanza's research, a lack of social capital (not just financial capital) is a primary reason 9 out of 10 startups fail."
+},
+{
+"tag": "[W1 L2]",
+"question": "Corporate Social Responsibility refers to the responsibility of enterprises for their impacts on society, making companies socially accountable to themselves, stakeholders, and the public?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. CSR is exactly this: an enterprise's full accountability for its environmental, social, and economic impact."
+},
+{
+"tag": "[W2 L1]",
+"question": "According to Edgar Schein’s model, corporate logos, office layouts, dress codes, and employee uniforms belong to which level of culture?",
+"options": [
+"Espoused Values",
+"Underlying Assumptions",
+"Artifacts",
+"Sense-Making Devices"
+],
+"correctAnswerIndex": 2,
+"explanation": "Artifacts represent the visible, overt, and physical manifestations of an organization that an observer can see immediately."
+},
+{
+"tag": "[W2 L1]",
+"question": "Which concept of organizational analysis provides frameworks or communication tools to resolve confusion and manage uncertainty during a crisis?",
+"options": [
+"Organizational Identity",
+"Collective Commitment",
+"Social System Stability",
+"Sense-Making Device"
+],
+"correctAnswerIndex": 3,
+"explanation": "A sense-making device functions as a tool or communicative framework that helps employees interpret complex data, reduce ambiguity, and navigate crisis situations."
+},
+{
+"tag": "[W2 L1]",
+"question": "Organizational culture refers to a system of shared assumptions, values, and beliefs that show people what is appropriate and inappropriate behavior?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. This is the foundational definition of organizational culture."
+},
+{
+"tag": "[W2 L1]",
+"question": "Artefacts is any overt, visible, describable aspects of the organization such as branding and logos, office design, dress code, policies and tools?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. According to Edgar Schein's model, artifacts are the top, visible level of culture."
+},
+{
+"tag": "[W2 L2]",
+"question": "According to the principles of culture change (Chris Williams' insight), what is the most critical requirement for a shift in corporate culture to actually succeed?",
+"options": [
+"Issuing new policy memos",
+"Leaders actively modeling the desired behavior themselves",
+"Changing the company logo",
+"Increasing financial rewards"
+],
+"correctAnswerIndex": 1,
+"explanation": "Simply issuing memos produces little effect; Chris Williams' insight emphasizes that for culture to change, leaders must actively model the desired behavior."
+},
+{
+"tag": "[W2 L2]",
+"question": "What are the three sequential stages of the organizational socialization process that turn an outsider into a social insider?",
+"options": [
+"Recruitment, Selection, Onboarding",
+"Anticipatory Socialization, Encounter, and Change & Acquisition",
+"Action, Response, and Perception of Response",
+"Identification, Commitment, and Stability"
+],
+"correctAnswerIndex": 1,
+"explanation": "Socialization transforms an employee through three phases: Anticipatory Socialization (pre-employment expectations), Encounter (initial job entry and task learning), and Change & Acquisition (task mastery and norm internalization)."
+},
+{
+"tag": "[W2 L2]",
+"question": "Social insider is an employee who has successfully transitioned from an outsider to a fully integrated member of a workplace network as the core outcome of organizational management?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. This is the successful end-state of the 3-stage organizational socialization process."
+},
+{
+"tag": "[W2 L2]",
+"question": "Stating the organizational philosophy, mission, vision are the most important parts in the process of culture change?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. While important, Chris Williams' insight emphasizes that merely stating values or issuing memos is not enough. Leaders must actively model the desired behavior themselves."
+},
+{
+"tag": "[W3 L1]",
+"question": "Which dimension of a Global Mindset involves emotional energy, a positive attitude toward diversity, and a willingness to engage cross-culturally?",
+"options": [
+"Intellectual Capital",
+"Psychological Capital",
+"Social Capital",
+"Financial Capital"
+],
+"correctAnswerIndex": 1,
+"explanation": "Psychological capital refers to a leader's emotional energy, self-reflection, positive attitude toward diversity, and willingness to embrace cultural differences."
+},
+{
+"tag": "[W3 L1]",
+"question": "According to Hofstede's dimensions, how is South Korea classified?",
+"options": [
+"Individualist with Low Uncertainty Avoidance",
+"Collectivist with High Uncertainty Avoidance",
+"Individualist with High Uncertainty Avoidance",
+"Collectivist with Low Uncertainty Avoidance"
+],
+"correctAnswerIndex": 1,
+"explanation": "Hofstede's dimensions classify South Korea as Collectivist (emphasizing group loyalty) and High in Uncertainty Avoidance (enforcing strict rules to minimize risk)."
+},
+{
+"tag": "[W3 L1]",
+"question": "Individualist cultures rely on group consultation and consensus?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. Collectivist cultures (like South Korea) rely on group consultation. Individualist cultures prioritize personal autonomy."
+},
+{
+"tag": "[W3 L1]",
+"question": "Intellectual capital is one of the three important dimensions for having a global mindset?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. A global mindset requires Intellectual Capital (knowledge), Psychological Capital (openness), and Social Capital (relationships)."
+},
+{
+"tag": "[W3 L2]",
+"question": "What term describes a situation where a society displays two opposing values at the same time, such as being deeply traditional while maintaining cutting-edge digital technology?",
+"options": [
+"Culture Shock",
+"Cultural Paradox",
+"Sense-Making Device",
+"Cognitive Bias"
+],
+"correctAnswerIndex": 1,
+"explanation": "A cultural paradox exists when a society displays two opposing values at the same time."
+},
+{
+"tag": "[W3 L2]",
+"question": "What is the psychological and emotional disorientation experienced when an employee returns to their origin country after living abroad?",
+"options": [
+"Anticipatory Socialization",
+"Culture Shock",
+"Burnout",
+"Reentry Shock / Reverse Culture Shock"
+],
+"correctAnswerIndex": 3,
+"explanation": "Reentry shock is the psychological and emotional disorientation experienced when an employee returns to their origin country after living abroad."
+},
+{
+"tag": "[W3 L2]",
+"question": "Cultural Paradox is the ability to understand, interpret, and adapt effectively to people from different cultural backgrounds?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. That is the definition of Cross-Cultural Competence (or CQ). A Cultural Paradox refers to a culture exhibiting two opposing traits simultaneously."
+},
+{
+"tag": "[W3 L2]",
+"question": "Asocial means having a lack of motivation or desire to engage in social interaction, along with a strong preference for solitary activities?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. An asocial person prefers solitary activities, which differs from being anti-social (which often implies hostility)."
+},
+{
+"tag": "[W4 L1]",
+"question": "What is the second stage of the Social Information Processing Model of Perception, where the brain organizes information into schemata and stereotypes?",
+"options": [
+"Selective Attention / Comprehension",
+"Encoding and Simplification",
+"Storage and Retention",
+"Retrieval and Response"
+],
+"correctAnswerIndex": 1,
+"explanation": "In Stage 2 (Encoding and Simplification), selected sensory cues are translated into mental representations using schemata (cognitive frameworks) and stereotypes."
+},
+{
+"tag": "[W4 L1]",
+"question": "When the information is selected and translated into a mental representation that the brain can understand is called Encoding and Simplification?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. This is the exact definition of the second stage of the Social Information Processing Model of Perception."
+},
+{
+"tag": "[W4 L1]",
+"question": "Social Perception is the idea of recognizing and understanding the emotions of others in your environment?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. Empathy is recognizing emotions. Social Perception is the broader cognitive process of interpreting environmental stimuli and actions."
+},
+{
+"tag": "[W4 L2]",
+"question": "Under Kelley’s Covariation Model of Attribution, if an employee performs poorly on a task, but all other colleagues performing the exact same task also perform poorly, what is the consensus level and attribution?",
+"options": [
+"Low consensus; Internal attribution",
+"High consensus; External attribution",
+"High consensus; Internal attribution",
+"Low consensus; External attribution"
+],
+"correctAnswerIndex": 1,
+"explanation": "When peers behave the same way in a given situation, consensus is HIGH. High consensus points to an external situational cause (such as faulty software) rather than individual personal failure."
+},
+{
+"tag": "[W4 L2]",
+"question": "An employee attributes their project success to personal intelligence but blames poor weather and equipment failure for project delays. What cognitive bias is this employee displaying?",
+"options": [
+"Fundamental Attribution Bias",
+"Self-Serving Bias",
+"Halo Effect",
+"Horn Effect"
+],
+"correctAnswerIndex": 1,
+"explanation": "Self-serving bias is the tendency to take personal credit for successful outcomes while attributing failures to external environmental factors."
+},
+{
+"tag": "[W4 L2]",
+"question": "Geographic location, income, educational background, work history, and marital status belong to which layer of diversity?",
+"options": [
+"Personality",
+"Internal Dimensions",
+"External Dimensions",
+"Organizational Dimensions"
+],
+"correctAnswerIndex": 2,
+"explanation": "External Dimensions of diversity include personal choices and life experiences such as geographic location, income, educational background, work history, and marital status."
+},
+{
+"tag": "[W4 L2]",
+"question": "External attributions explains that link an action to a person's inner traits, abilities, or motives.",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. External attributions link actions to environmental forces. Internal attributions link actions to inner traits."
+},
+{
+"tag": "[W4 L2]",
+"question": "Personality is your age, gender, sexual orientation, physical ability, ethnicity, and race.",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. Age, gender, and race are considered 'Internal Dimensions' of diversity, not personality."
+},
+{
+"tag": "[W5 L1]",
+"question": "How does Carl Rogers define the aspirational future self that an individual wants to become?",
+"options": [
+"Real Self",
+"Ideal Self",
+"Projected Self",
+"Social Self"
+],
+"correctAnswerIndex": 1,
+"explanation": "Carl Rogers defines the Ideal Self as the aspirational future self that an individual wants to become."
+},
+{
+"tag": "[W5 L1]",
+"question": "Which Big Five personality trait reflects dependability, responsibility, achievement orientation, and persistence, serving as the strongest predictor of job performance?",
+"options": [
+"Extraversion",
+"Agreeableness",
+"Conscientiousness",
+"Openness to Experience"
+],
+"correctAnswerIndex": 2,
+"explanation": "Conscientiousness reflects dependability, responsibility, achievement orientation, and persistence, serving as the single strongest predictor of job performance."
+},
+{
+"tag": "[W5 L1]",
+"question": "Self-Concept answers the question, 'How should I act here?'",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. Self-Concept answers 'Who am I?'. Self-Monitoring answers 'How should I act here?'"
+},
+{
+"tag": "[W5 L1]",
+"question": "Self-Monitoring answers the question, 'Can I do this?'",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. Self-Efficacy answers 'Can I do this?'. Self-Monitoring answers 'How should I act here?'"
+},
+{
+"tag": "[W5 L2]",
+"question": "Which cognitive system in the prefrontal cortex is used to temporarily hold, organize, and manipulate information during active tasks?",
+"options": [
+"Long-term Memory",
+"Working Memory",
+"Sensory Memory",
+"Episodic Memory"
+],
+"correctAnswerIndex": 1,
+"explanation": "Working Memory is the prefrontal cortex cognitive system used to temporarily hold, organize, and manipulate information during active tasks."
+},
+{
+"tag": "[W5 L2]",
+"question": "What is the primary difference between Cognitive Intelligence (IQ) and Emotional Intelligence (EQ)?",
+"options": [
+"EQ is stable from birth, IQ is trained.",
+"IQ stays relatively stable throughout life, whereas EQ can be deliberately trained and strengthened over time.",
+"Both are fixed at birth.",
+"Both are easily trained in adulthood."
+],
+"correctAnswerIndex": 1,
+"explanation": "Unlike Cognitive Intelligence (IQ), which stays relatively stable throughout adulthood, Emotional Intelligence (EQ) is a flexible discipline that can be trained and improved over time through consistent effort."
+},
+{
+"tag": "[W5 L2]",
+"question": "Self-awareness, self-regulation, empathy, and social skills are the four pillars of emotional intelligence?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. There are FIVE pillars of emotional intelligence: Self-awareness, Self-regulation, Motivation, Empathy, and Social skills."
+},
+{
+"tag": "[W5 L2]",
+"question": "Spatial visualization remember pairs of ideas and facts?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. Associative memory remembers pairs of ideas and facts. Spatial visualization is the ability to mentally manipulate shapes."
+},
+{
+"tag": "[W6 L1]",
+"question": "Employee motivation rests on a combination of baseline financial security, intrinsic psychological fulfillment, and a supportive workplace culture?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. Employee motivation is holistic, requiring baseline extrinsic security alongside intrinsic psychological fulfillment and a supportive environment."
+},
+{
+"tag": "[W6 L1]",
+"question": "The second stage of Maslow's Need Hierarchy Theory is about Love and Belonging?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. The second stage of Maslow's hierarchy is Safety Needs. Love and Belonging is the third stage."
+},
+{
+"tag": "[W6 L2]",
+"question": "Intrinsic motivation comes from personal satisfaction or the enjoyment of a task.",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. Intrinsic motivation comes from within, such as the pure enjoyment, personal growth, or satisfaction derived from completing a specific job."
+},
+{
+"tag": "[W6 L2]",
+"question": "Job satisfaction is an employee's overall sense of contentment, fulfillment, and positive emotional alignment with their career.",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. Job satisfaction broadly encompasses an employee's emotional and psychological contentment regarding their work and workplace."
+},
+{
+"tag": "[W7 L1]",
+"question": "Valence is the belief that successful performance will lead to a specific outcome or reward?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. In Expectancy Theory, the belief that performance leads to a reward is called 'Instrumentality'. 'Valence' refers to the actual value or desire the person places on that specific reward."
+},
+{
+"tag": "[W7 L1]",
+"question": "In Adam's Equity Theory of Motivation, the employee calculate the ratio of what they put into their job versus what they get out of it, and then compare this ratio to their peers or colleagues?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. Adam's Equity theory states that motivation is heavily influenced by how fair an employee's input-to-output ratio feels compared to referent others."
+},
+{
+"tag": "[W7 L2]",
+"question": "Motivation through goal setting has been developed primarily by psychologists Edwin Latham and Gary Locke?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 1,
+"explanation": "FALSE. The Goal-Setting Theory was primarily developed by Edwin Locke and Gary Latham, not the other way around!"
+},
+{
+"tag": "[W7 L2]",
+"question": "Leaders must break complex goals down into smaller, manageable sub-targets so the employee stays confident?",
+"options": [
+"TRUE",
+"FALSE"
+],
+"correctAnswerIndex": 0,
+"explanation": "TRUE. Breaking large, overwhelming goals into sub-targets maintains motivation and builds self-efficacy."
+}
+]
